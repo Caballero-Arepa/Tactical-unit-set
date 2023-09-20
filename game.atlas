@@ -1,13 +1,118 @@
 
 game.png
-size: 256, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/Tactical unit set/Units/Berserker
+  rotate: false
+  xy: 520, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
 TileSets/Tactical unit set/Units/Great War Infantry
   rotate: false
+  xy: 520, 4
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Legion
+  rotate: false
+  xy: 753, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Longswordsman
+  rotate: false
+  xy: 4, 187
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Musketeer
+  rotate: false
+  xy: 753, 4
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Panzer
+  rotate: false
+  xy: 986, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Pikeman
+  rotate: false
+  xy: 986, 4
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Spearman
+  rotate: false
   xy: 4, 4
-  size: 150, 150
-  orig: 150, 150
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Spearman-1
+  rotate: false
+  xy: 262, 187
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Spearman-2
+  rotate: false
+  xy: 262, 4
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker
+  rotate: false
+  xy: 1219, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker-1
+  rotate: false
+  xy: 1219, 4
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker-2
+  rotate: false
+  xy: 1452, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker-Industrial era
+  rotate: false
+  xy: 1452, 4
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker-Industrial era-1
+  rotate: false
+  xy: 1685, 187
+  size: 225, 175
+  orig: 225, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Worker-Industrial era-2
+  rotate: false
+  xy: 1685, 4
+  size: 225, 175
+  orig: 225, 175
   offset: 0, 0
   index: -1

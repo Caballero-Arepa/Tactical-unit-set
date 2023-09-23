@@ -1,31 +1,52 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/Tactical unit set/Units/Berserker
   rotate: false
-  xy: 520, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 4, 736
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/EmbarkedUnit-Military-Renaissance era
+  rotate: false
+  xy: 4, 553
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Great War Infantry
   rotate: false
-  xy: 520, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 262, 736
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Legion
   rotate: false
-  xy: 753, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 4, 370
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Longswordsman
+  rotate: false
+  xy: 262, 553
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Longswordsman-1
+  rotate: false
+  xy: 520, 736
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Longswordsman-2
   rotate: false
   xy: 4, 187
   size: 250, 175
@@ -34,23 +55,23 @@ TileSets/Tactical unit set/Units/Longswordsman
   index: -1
 TileSets/Tactical unit set/Units/Musketeer
   rotate: false
-  xy: 753, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 262, 370
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Panzer
   rotate: false
-  xy: 986, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 520, 553
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Pikeman
   rotate: false
-  xy: 986, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 778, 736
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Spearman
@@ -69,6 +90,27 @@ TileSets/Tactical unit set/Units/Spearman-1
   index: -1
 TileSets/Tactical unit set/Units/Spearman-2
   rotate: false
+  xy: 520, 370
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Swordsman
+  rotate: false
+  xy: 778, 553
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Swordsman-1
+  rotate: false
+  xy: 1036, 736
+  size: 250, 175
+  orig: 250, 175
+  offset: 0, 0
+  index: -1
+TileSets/Tactical unit set/Units/Swordsman-2
+  rotate: false
   xy: 262, 4
   size: 250, 175
   orig: 250, 175
@@ -76,43 +118,43 @@ TileSets/Tactical unit set/Units/Spearman-2
   index: -1
 TileSets/Tactical unit set/Units/Worker
   rotate: false
-  xy: 1219, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 520, 187
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Worker-1
   rotate: false
-  xy: 1219, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 778, 370
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Worker-2
   rotate: false
-  xy: 1452, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 1036, 553
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Worker-Industrial era
   rotate: false
-  xy: 1452, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 1294, 736
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Worker-Industrial era-1
   rotate: false
-  xy: 1685, 187
-  size: 225, 175
-  orig: 225, 175
+  xy: 520, 4
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
 TileSets/Tactical unit set/Units/Worker-Industrial era-2
   rotate: false
-  xy: 1685, 4
-  size: 225, 175
-  orig: 225, 175
+  xy: 778, 187
+  size: 250, 175
+  orig: 250, 175
   offset: 0, 0
   index: -1
